@@ -9,5 +9,5 @@ Pagina dedicata al caricamento di testo e soluzioni relative alle eserctazioni p
 
 **Seleziona l'insegnamento dal menù di ricerca o dalla lista sottostante:**
 
-- [Macroeconomia]({{< ref "/teach/intro3/_index.md" >}})
-- [Economia della Crescita e della Globalizzazione]({{< ref "/teach/intro2/_index.md" >}})
+- [Macroeconomia]({{< ref "teach/intro3/_index.md" >}})
+- [Economia della Crescita e della Globalizzazione]({{< ref "teach/intro2/_index.md" >}})
