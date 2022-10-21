@@ -15,8 +15,10 @@ email: "alessiogarau22@gmail.com"
 highlight_name: true
 interests:
 - Spatial Economics
-- Labor Economics
+- Labour Economics
 - Econoimics of Growth
+- Data Visualization
+- Photography
 organizations:
 - name: University of Cagliari
   url: https://www.unica.it/unica/
@@ -41,4 +43,4 @@ title: Alessio Garau
 Master's degree in Economics, Finance and Public Policy from Cagliari, Italy. Previously an intern at the Center for Economic Research North South (CRENoS) and Research Assistant at LaVoce.info. For the past 5 months I have been working as a Data Analyst at Talents Venture, a young startup in the education field. I am currently attending the PhD program in economics at the University of Cagliari.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1BAZUfFwYgBwqdLf8K_JQgY5eC1_QTcYA/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1BAZUfFwYgBwqdLf8K_JQgY5eC1_QTcYA/view?usp=sharing" "newtab" >}}CV{{< /staticref >}} or visit my [digital cv](garaugarau.github.io)
