@@ -25,7 +25,7 @@ image:
 
 # Introduzione e obiettivi
 
-L'utilizzo di dati geospaziali sta acquisendo un ruolo sempre più importante. [QGIS](https://www.qgis.org/en/site/) (Geographic Information System) è un software completamente Open Source disponibile su Windows, Linux e MacOs. Le caratteristiche che lo distinguono sono, appunto, la gratuità e la sua interfaccia userfrindly che permettono anche ad utenti principianti di svolgere operaizoni che su altre piattarforme richiederebbero lo sviluppo di molte più competenze nell'utilizzo del software.
+L'utilizzo di dati geospaziali sta acquisendo un ruolo sempre più importante. [QGIS](https://www.qgis.org/en/site/) (Geographic Information System) è un software completamente Open Source disponibile su Windows, Linux e MacOs. Le caratteristiche che lo distinguono sono, appunto, la gratuita e la sua interfaccia userfrindly che permettono anche ad utenti principianti di svolgere operazioni che su altre piattaforme richiederebbero lo sviluppo di molte più competenze nell'utilizzo del software.
 
 In questo breve tutorial il mio obiettivo sarà quello di illustrare il procedimento da seguire per costruire una matrice delle distanze partendo dagli shape file messi a disposizione dall'[Istat](https://www.istat.it/it/archivio/222527).
 
@@ -35,7 +35,7 @@ Il livello di dettaglio utilizzato sarà quello delle province italiane aggiorna
 
 # Download shapefile e caricamento su QGIS
 
-Per poter ottnere la nostra matrice il primo passo da compiere sarebbe quello di caricare su QGIS un csv contenente latitudine e longitudine di ciascuna provincia. Tuttavia questo procedimento non è come semplice come sembra per almeno due ragioni:
+Per poter ottenere la nostra matrice il primo passo da compiere sarebbe quello di caricare su QGIS un csv contenente latitudine e longitudine di ciascuna provincia. Tuttavia questo procedimento non è come semplice come sembra per almeno due ragioni:
 - Spesso i file online non sono aggiornati e la suddivisione delle provincie potrebbe non essere quella attuale
 - Alcuni siti mettono a disposizione liste parziali o non gratuite
 
@@ -56,14 +56,14 @@ Per fare questo baterà aprire questo link e scaricare uno dei due file zip mess
   
   ![Alt text here](foto3.png "EPSG:32632")
   
-  Come potrete notare, l'immagine evidenzia una sigla di estrema importanza. che andrebbe considerata ogni volta in cui un nuovo layer viene importato su QGIS. Mi riferisco al c.d. [Sistema di Riferimento delle Coordinate Predefinito](https://docs.qgis.org/3.22/it/docs/gentle_gis_introduction/coordinate_reference_systems.html). Per avere maggiori informazioni sul sistema utilizzato vi basterà schiacciare sulla sigla e sarà QGIS a illustravi le sue caratteristiche. Per i nostri scopi sarà fondamentale sempre sapere in quale sistema stiamo lavorando perchè questo ci indicherà anche l'unità di misura delle coordinate sulla nostra mappa (metri o gradi). In particolare, quando andremo a calcolarci le coordinate sarà importante ragionare in gradi e poi quando calcoleremo la matrice sarà altrettanto importante converire tutto in metri.
+  Come potrete notare, l'immagine evidenzia una sigla di estrema importanza. che andrebbe considerata ogni volta in cui un nuovo layer viene importato su QGIS. Mi riferisco al c.d. [Sistema di Riferimento delle Coordinate Predefinito](https://docs.qgis.org/3.22/it/docs/gentle_gis_introduction/coordinate_reference_systems.html). Per avere maggiori informazioni sul sistema utilizzato vi basterà schiacciare sulla sigla e sarà QGIS a illustravi le sue caratteristiche. Per i nostri scopi sarà fondamentale sempre sapere in quale sistema stiamo lavorando perchè questo ci indicherà anche l'unità di misura delle coordinate sulla nostra mappa (metri o gradi). In particolare, quando andremo a calcolarci le coordinate sarà importante ragionare in gradi e poi quando calcoleremo la matrice sarà altrettanto importante convertire tutto in metri.
   
-Per capire l'unità di misura utilizzata dall'istat basterà scrivere nel sito [epsg.io](https://epsg.io/) il sistema su cui desiderate avere maggiori informazioni e potrete constatare che qUello attualmente usato nel nostro progetto esprime le misure in metri. Per il momento sarà possibile procedere al calcolo dei centroidi senza conversioni ma tenendo presente questo punto per gli step futuri.
+Per capire l'unità di misura utilizzata dall'istat basterà scrivere nel sito [epsg.io](https://epsg.io/) il sistema su cui desiderate avere maggiori informazioni e potrete constatare che quello attualmente usato nel nostro progetto esprime le misure in metri. Per il momento sarà possibile procedere al calcolo dei centroidi senza conversioni ma tenendo presente questo punto per gli step futuri.
 
 # Calcolo dei centroidi 
 
 Per calcolare il centroide di ogni provincia (poligono) basterà selezionare il tool **Centoridi** dalla sezione di strumenti di Processing **Geometria vettore**. Lasciate le opzioni di default e premete esegui.
-Notere subito che QGIS restituisce un errore, che potete trovare anche riportato nella figura sucessiva.
+Noterete subito che QGIS restituisce un errore, che potete trovare anche riportato nella figura successiva.
 
   ![Intersezioni tra poligoni](foto4.png "Intersezioni tra poligoni")
 
@@ -73,7 +73,7 @@ Per prima cosa è necessario individuare questi errori, per farlo basterà utili
 
   ![Identificare i poligoni](foto5.png "Identificare i poligoni")
 
-Zoommando su uno dei punti potrete facilmente identificare e comprendere l'origine del problema.
+Zoomando su uno dei punti potrete facilmente identificare e comprendere l'origine del problema.
 
   ![Identificare i poligoni](foto7.png "Identificare i poligoni")
 
@@ -81,15 +81,15 @@ A questo punto, selezionando il layer originario "ProvCM01012022_g_WGS84" selezi
 
 ![Ripara geometrie](foto6.png "Ripara geometrie")
 
-Da questo momento in avanti il vostro layer di riferimento sarà quello dal nome "Geometrie riparate", togliete la spunta dai rimanenti e lavorate solo su questo. Attenzione però, come evidenzia la figura precedente il layer è solo temporaneo, alla chiudura di QGIS questo sparirà e non verrà salvato in nessuna cartella.
+Da questo momento in avanti il vostro layer di riferimento sarà quello dal nome "Geometrie riparate", togliete la spunta dai rimanenti e lavorate solo su questo. Attenzione però, come evidenzia la figura precedente il layer è solo temporaneo, alla chiusura di QGIS questo sparirà e non verrà salvato in nessuna cartella.
 
 A questo punto non vi resta che ripetere il procedimento relativo al calcolo dei centroidi sul livello riparato, la procedura non dovrebbe riportare errori e dovreste ottenere un centroide per ogni provincia.
 
 # Calcolo delle coordinate associate ad ogni centroide
 
-Gli shapefile messi a disposizione dall'Istat sono ricchi di informazioni ma, sofortunatamente, non possiedono indicazioni relative alle coordinate. Quello che faremo a questo punto sarà convertire il nostro layer in un EPSG in gradi e aggiungere al nostro file questa importante informazione, fondamentale per ottenere la matrice desiderata.
+Gli shapefile messi a disposizione dall'Istat sono ricchi di informazioni ma, sfortunatamente, non possiedono indicazioni relative alle coordinate. Quello che faremo a questo punto sarà convertire il nostro layer in un EPSG in gradi e aggiungere al nostro file questa importante informazione, fondamentale per ottenere la matrice desiderata.
 
-Partendo dal sito [epsg.io](https://epsg.io/) sarà necessario convertire il layer contenente i centoridi in EPSG:4326 che dal sito in questione risulta essere un sistema cartografico espresso in gradi, quindi perfetto per il nostros scopo.
+Partendo dal sito [epsg.io](https://epsg.io/) sarà necessario convertire il layer contenente i centoridi in EPSG:4326 che dal sito in questione risulta essere un sistema cartografico espresso in gradi, quindi perfetto per il nostro scopo.
 
 ![EPSG:4326](foto8.png "EPSG:4326")
 
@@ -100,16 +100,16 @@ Per verificare se il processo è andato a buon fine potete aprire, con il tasto 
 
 ![Aggiunta coordinate](foto9.png "Aggiunta coordinate")
 
-Come potete notare QGIS ha aggiunto due colonne contenenti la latidine e la longitudine associato ad ogni centroide ma mantenendo anche tutte le altre informazioni presenti nel file originario come codice province, denominazione completa etc...
+Come potete notare QGIS ha aggiunto due colonne contenenti la latitudine e la longitudine associato ad ogni centroide ma mantenendo anche tutte le altre informazioni presenti nel file originario come codice province, denominazione completa etc...
 
-Selezionando il layer appena creato esportatelo nelo vostro pc in formato CSV, seguendo il processo svolto in precedenza. Questo rappresenterà la base di partenza per la creazione della matrice delle distanze.
+Selezionando il layer appena creato esportatelo nel vostro pc in formato CSV, seguendo il processo svolto in precedenza. Questo rappresenterà la base di partenza per la creazione della matrice delle distanze.
 
 # Creazione della matrice
 
 Per completare questo punto potreste anche decidere di avviare un nuovo progetto e considerare questa sezione come il punto di partenza nel caso in cui disponiate giù di un file contenente le coordinate. per ciascuna provincia.
 
-Selezionando Layer>Aggiungi Layer>Aggingi Layer testo Delimitato potrete procedere ad importare il file creato in precedenza. Ispezionando quest'ultimo dovreste rendervi conto che nella colonna "DEN_PROV" le procincie che corrispondono anche al capologuogo di regione rappresentano un missing nella colonna considerata. Per rimediare a questo problema potete attivare le modifiche premendo tasto detro sul layer>Attiva modifiche.
-Ispezionando il Layer a questo punto vi sarà possibile sostituitre i 21 missing copiando e incollando il nome della provincia presente nella colonna dei capoluoghi di regione.
+Selezionando Layer>Aggiungi Layer>Aggiungi Layer testo Delimitato potrete procedere ad importare il file creato in precedenza. Ispezionando quest'ultimo dovreste rendervi conto che nella colonna "DEN_PROV" le provincie che corrispondono anche al capologuogo di regione rappresentano un missing nella colonna considerata. Per rimediare a questo problema potete attivare le modifiche premendo tasto dentro sul layer>Attiva modifiche.
+Ispezionando il Layer a questo punto vi sarà possibile sostituire i 21 missing copiando e incollando il nome della provincia presente nella colonna dei capoluoghi di regione.
 
 
 ![Sostituzione missing values](foto10.png "Sostituzione missing values")
@@ -122,11 +122,11 @@ Per farlo vi basterà selezionare il layer importato in precedenza (l'unico se a
 
 L'output dovrebbe restituirvi un Layer contenente una matrice NxN.
 
-A questo punto il processo potrebbe essere termninato....se non fosse che le nostre distanze sono in gradi! per poter interpretare senza problemi sarà prima necessario ripassare da un sistema di misurazione in gradi a uno in metri.
+A questo punto il processo potrebbe essere terminato....se non fosse che le nostre distanze sono in gradi! per poter interpretare senza problemi sarà prima necessario ripassare da un sistema di misurazione in gradi a uno in metri.
 
-Seguendo il processo di esportazione illustrato in precedenza vi basterà selezionare il sistema [EPSG:6875](https://epsg.io/6875) e salavre il tutto in formato CSV nel vostro pc per utilizzarla in progetti futuri.
+Seguendo il processo di esportazione illustrato in precedenza vi basterà selezionare il sistema [EPSG:6875](https://epsg.io/6875) e salvare il tutto in formato CSV nel vostro pc per utilizzarla in progetti futuri.
 
-QGIS, di default, salverà tutto utilizzando il sistema decimale in cui il "." rappresenta il separatore dei decimali, tenentene conto nel caso in cui decideste di importare tutto su Excel o sostituite ogni punto con una virgola aprendo il file nel Blocco Note e premendo CTRL+H.
+QGIS, di default, salverà tutto utilizzando il sistema decimale in cui il "." rappresenta il separatore dei decimali, sarà necessario tenerne conto nel caso in cui decideste di importare tutto su Excel. In alternativa potrete anche decidere di sostituite ogni punto con una virgola aprendo il file nel Blocco Note e premendo CTRL+H.
 
 Ricordate che le distanze trovare sono espresse in termini di distanza aerea, per cui potete anche verificarne la correttezza misurando con lo strumento **Misura Linea** la loro correttezza.
 
