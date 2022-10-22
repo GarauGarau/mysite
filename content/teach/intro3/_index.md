@@ -12,19 +12,14 @@ weight: 2
 
 # Testi esercitazioni
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1BAZUfFwYgBwqdLf8K_JQgY5eC1_QTcYA/view?usp=sharing" "newtab" >}}Esercitazione 1{{< /staticref >}}
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1I6KF6WbhrXjmIRZ5lnb2VqPjhqiVCM-v/view?usp=sharing" "newtab" >}}Esercitazione 1{{< /staticref >}}
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1BAZUfFwYgBwqdLf8K_JQgY5eC1_QTcYA/view?usp=sharing" "newtab" >}}Esercitazione 2{{< /staticref >}}
-
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1BAZUfFwYgBwqdLf8K_JQgY5eC1_QTcYA/view?usp=sharing" "newtab" >}}Esercitazione 3{{< /staticref >}}
 
 # Soluzioni
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1BAZUfFwYgBwqdLf8K_JQgY5eC1_QTcYA/view?usp=sharing" "newtab" >}}Soluzione esercitazione 1{{< /staticref >}} 
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1X2I37BACwk3pqh_y51pysRCaTVJOCbD7/view?usp=sharing" "newtab" >}}Soluzione esercitazione 1{{< /staticref >}} 
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1BAZUfFwYgBwqdLf8K_JQgY5eC1_QTcYA/view?usp=sharing" "newtab" >}}Soluzione esercitazione 2{{< /staticref >}}
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1BAZUfFwYgBwqdLf8K_JQgY5eC1_QTcYA/view?usp=sharing" "newtab" >}}Soluzione esercitazione 3{{< /staticref >}}
 
 # Approfondimenti e risorse utili
 
