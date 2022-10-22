@@ -7,7 +7,7 @@ type: book
 weight: 2
 ---
 ---
-![Alt text here](aaa.jpg "Produttività dei fattori per i principali paesi europei")
+![Alt text here](aaa.jpg "Italia: TFP, PIL reale e PIL per occupato")
 
 
 # Testi esercitazioni
