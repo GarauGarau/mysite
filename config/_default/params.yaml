@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Alessio Garau 2022'
+    notice: 'Alessio Garau'
     license:
       enable: false
       allow_derivatives: false
