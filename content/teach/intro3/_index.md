@@ -1,12 +1,14 @@
 ---
 cms_exclude: true
 title: "Macroeconomia"
-summary: Blah, blah, blah...
-date: 2022-10-21
+summary: 
+date: 2022-10-22
 type: book
 weight: 2
 ---
 ---
+![Alt text here](aaa.jpg "Produttività dei fattori per i principali paesi europei")
+
 
 # Testi esercitazioni
 
@@ -26,3 +28,9 @@ weight: 2
 
 # Approfondimenti e risorse utili
 
+- [Canale Telegram Istat Comunicati stampa](https://t.me/istatstampa)
+- [Sito OECD](https://www.oecd.org/)
+- [World Bank](https://www.worldbank.org/en/home)
+- [Lavoce.info](https://www.lavoce.info/)
+
+ 
