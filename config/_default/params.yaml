@@ -43,6 +43,7 @@ header:
 
 footer:
   copyright:
+    enable:
     notice: 'Alessio Garau'
     license:
       enable: false
@@ -53,7 +54,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Oct 22, 2022'
+  date_format: '02 Jan 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
