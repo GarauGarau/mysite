@@ -10,7 +10,7 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Teaching
+  - name: Esercitazioni 
     url: '/teach'
     weight: 30
 # Link to a PDF of your resume/CV from the menu.

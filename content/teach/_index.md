@@ -5,7 +5,7 @@ type: book
 weight: 2
 ---
 ---
-Pagina dedicata al caricamento di testo e soluzioni relative alle eserctazioni per i corsi di Macroeconomia (EGA1) ed Economia della Crescita e della Globalizzazione (EFPP).
+Pagina dedicata al caricamento delle esercitazioni per i corsi di Macroeconomia (triennale - EGA1) ed Economia della Crescita e della Globalizzazione (Magistrale - EFPP).
 
 **Seleziona l'insegnamento dal menù di ricerca o dalla lista sottostante:**
 
