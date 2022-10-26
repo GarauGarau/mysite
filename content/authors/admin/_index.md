@@ -26,7 +26,7 @@ role: PhD student in economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:alessiogarau@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alessiogarau22
