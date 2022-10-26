@@ -2,20 +2,21 @@
 cms_exclude: true
 title: "Economia della Crescita e della Globalizzazione"
 summary: 
-date: 2022-10-21
+date: 2022-10-26
 type: book
 weight: 3
 ---
 ---
 
-# Testi esercitazioni
+
+## Testi esercitazioni
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1E1UkGpqqoiblSHhkv4E343sxXR7I29z1/view?usp=sharing" "newtab" >}}Esercitazione 1{{< /staticref >}}
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/14VbwvUCO2CKmkSSv5wbu5TpkXdmQc0LE/view?usp=sharing" "newtab" >}}Esercitazione 2{{< /staticref >}}
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/12Kzuqb9Y1i-tc_r19Yg79ExHflQOwQEt/view?usp=sharing" "newtab" >}}Esercitazione 3{{< /staticref >}}
 
-# Soluzioni
+## Soluzioni
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1MIboSLQX1OdUcQjnRkkK0b4BJjdKCPr4/view?usp=sharing" "newtab" >}}Codice Maple per simulazione Funzione di Utilità{{< /staticref >}}
 

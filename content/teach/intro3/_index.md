@@ -2,12 +2,12 @@
 cms_exclude: true
 title: "Macroeconomia"
 summary: 
-date: 2022-10-22
+date: 2022-10-26
 type: book
 weight: 2
 ---
+
 ---
-![Alt text here](aaa.jpg "Italia: TFP, PIL reale e PIL per occupato")
 
 
 # Testi esercitazioni
@@ -30,10 +30,9 @@ weight: 2
 - [Lavoce.info](https://www.lavoce.info/)
 
 ## Articoli
+-  [La parola ai grafici - Lavoce.info](https://www.lavoce.info/la-parola-ai-grafici/)
+
 - [Why is inflation so high and will it stay that way? An economist explains](https://www.weforum.org/agenda/2022/05/inflation-rising-economist-explains/?utm_source=pocket_mylist)
 
-- [The Unequal Effect of Interest Rates by Race, Gender](https://www.frbsf.org/economic-research/publications/economic-letter/2022/august/unequal-effect-interest-rates-by-race-and-gender/?utm_source=pocket_mylist)
-
-- [How Much Do Supply and Demand Drive Inflation?](https://www.frbsf.org/economic-research/publications/economic-letter/2022/june/how-much-do-supply-and-demand-drive-inflation/?utm_source=pocket_mylist)
 
  
