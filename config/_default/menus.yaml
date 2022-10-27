@@ -11,7 +11,7 @@ main:
     url: '#posts'
     weight: 20
   - name: Esercitazioni 
-    url: '/teach'
+    url: '/esercitazioni'
     weight: 30
   - name: Photography
     url: '/photo'
