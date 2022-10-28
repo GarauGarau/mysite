@@ -79,7 +79,6 @@ Dal momento in cui la compilazione del documento produrrà diverse tipologie di 
 ```{=latex}
 % Questo è un commento
 
-\begin{tabular}{ll}
 \documentclass[a4paper]{article}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
