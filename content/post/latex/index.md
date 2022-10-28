@@ -28,13 +28,13 @@ image:
 
 {{< toc >}}
 
-# Un pò di storia
+## Un pò di storia
 
 LaTex è un programma di composizione tipografica open source che utilizza il "motore" di tipocomposizione Tex sviluppato da [Dondald Ervin Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) nel 1982. L'idea del suo *creatore* era quella di  porre rimedio alle crescenti difficoltà che, al tempo, sempre più studiosi riscontravano nello scrivere espressioni matematiche utilizzando esclusivamente la macchina da scrivere.
 
 Di conseguenza LaTex **non** è Tex. Per riprendere le parole della [guida italiana più famosa sull'argomento](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf): "*si potrebbe paragonare Tex a un corpo, e LaTex al più popolare degli “abiti” (fatto, però, di istruzioni in linguaggio Tex) che nel corso degli anni gli sono stati confezionati addosso per avvicinarlo al pubblico con sembianze amichevoli*".
 
-# Composizione Asincrona e filosofia
+## Composizione Asincrona e filosofia
 
 La differenza principale che distingue LaTex da altri strumenti di composizione tipografica più famosi è che l'introduzione del testo e la sua composizione grafica avvengono in momenti differenti.
 Si consideri, ad esempio, la stesura di un documento per mezzo del software Microsoft Word, in questo caso l'utente potrà agilmente apporre modifiche a quanto scritto, visualizzandole immediatamente sul proprio schermo (pensiamo ad esempio ad un cambio di font, l'aggiunta di un titolo o una modifica del colore).
@@ -50,7 +50,7 @@ numerati, avrà indice generale e analitico, delle figure e qualche tabella».
 può generare in teoria documenti radicalmente diversi soltanto cambiando-
 ne la classe o caricando un pacchetto che agisce in modo globale su di esso.
 
-# Installazione Latex
+## Installazione Latex
 
 Per iniziare a scrivere il primo documento di testo in LaTex il primo passo è **evitare** di confondere il motore (LaTex) con un editor che invece ci mostra semplicemente il codice a schermo.
 
@@ -72,7 +72,7 @@ Nonostante esistano diversi Editor LaTex i due più utilizzati (offline) rimango
   1. [Text Studio](http://www.texstudio.org/) (Multi piattaforma)
   2. [Tex Shop](http://www.uoregon.edu/~koch/texshop/) (Mac)
   
-# Basi e scrittura del primo documento
+## Basi e scrittura del primo documento
 
 Dal momento in cui la compilazione del documento produrrà diverse tipologie di file è *buona norma* creare una cartella in cui si andrà a salvare il corpo del documento Tex e tutti gli elementi esterni che si potrebbe decidere di utilizzare (immagini, pdf, tabelle...).
 
