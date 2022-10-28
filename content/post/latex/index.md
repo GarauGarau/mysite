@@ -50,7 +50,7 @@ numerati, avrà indice generale e analitico, delle figure e qualche tabella».
 può generare in teoria documenti radicalmente diversi soltanto cambiando-
 ne la classe o caricando un pacchetto che agisce in modo globale su di esso.
 
-## Installazione Latex
+## Installazione LaTex
 
 Per iniziare a scrivere il primo documento di testo in LaTex il primo passo è **evitare** di confondere il motore (LaTex) con un editor che invece ci mostra semplicemente il codice a schermo.
 
