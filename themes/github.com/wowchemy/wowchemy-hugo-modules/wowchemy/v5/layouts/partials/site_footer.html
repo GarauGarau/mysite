@@ -1,7 +1,7 @@
 <footer class="site-footer">
 
   {{ partial "hooks/footer" . }}
-
+<!--
   {{ if .IsTranslated | and site.Params.footer.show_translations }}
     <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
       <div class="p-2 font-weight-bold"><i class="fas fa-globe pr-1" aria-hidden="true"></i>{{ i18n "languages" }}:</div>
@@ -29,10 +29,10 @@
     {{ . | markdownify | emojify }}
   </p>
   {{ end }}
-
+-->
   {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
-
+<!--
   <p class="powered-by">
     {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
     {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
@@ -49,4 +49,5 @@
       {{ $i18n_published_with | markdownify | emojify }}
     {{ end }}
   </p>
+  -->
 </footer>
