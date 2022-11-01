@@ -17,7 +17,7 @@ type: book
 ## Articoli
 -  [La parola ai grafici - Lavoce.info](https://www.lavoce.info/la-parola-ai-grafici/)
 
-- [Why is inflation so high and will it stay that way? An economist explains](https://www.weforum.org/agenda/2022/05/inflation-rising-economist-explains/?utm_source=pocket_mylist)
+- [La Bce e l’inflazione testarda - Lavoce.info](https://www.lavoce.info/archives/98471/la-bce-e-linflazione-testarda/)
 
 
 

@@ -79,10 +79,10 @@ Dal momento in cui la compilazione del documento produrrà diverse tipologie di 
 ```{=latex}
 % Questo è un commento
 
-\documentclass[a4paper]{article}
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage[italian]{babel}
+\documentclass[a4paper,11pt,oneside]{article}
+\usepackage[T1]{fontenc} % codifica dei font
+\usepackage[utf8]{inputenc} % lettere accentate da tastiera
+\usepackage[italian]{babel} % lingua del documento
 
 \begin{document}
 Ecco il mio primo documento con \LaTeX.
