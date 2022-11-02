@@ -89,4 +89,14 @@ Ecco il mio primo documento con \LaTeX.
 \end{document}
 
 ```
+Il codice riportato, una volta compilato, permette di ottenere il primo documento LaTex. Ogni file è suddivisibile in due parti:
+- **Preambolo:** sezione in cui si definisce la struttura del documento e caricano i pacchetti;
+- **Corpo del documento:** tutto ciò che è compreso tra "begin" ed "end" document e che conterrà il testo *effettivo* dell'elaborato.
+
+Per ottenere il pdf in output sarà necessario avviare la compilazione del documento, azione che sarà possibile avviare dall'editor o da riga di comando.
+
+
+
+
+
 ![Alt text here](imm.jpg "Sto ancora lavorando a questo articolo, ripassa tra qualche giorno per leggere la sua versione definitiva")
