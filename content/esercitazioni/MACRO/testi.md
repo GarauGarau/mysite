@@ -10,7 +10,7 @@ type: book
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1I6KF6WbhrXjmIRZ5lnb2VqPjhqiVCM-v/view?usp=sharing" "newtab" >}}Esercitazione 1{{< /staticref >}} - Ripasso retta, contabilità nazionale e IPC
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1csQf3ThG7QzLbqqta7VaoS_CzCvwMpgH/view?usp=share_link" "newtab" >}}Esercitazione 1{{< /staticref >}} - Mercato de lavoro, sistema monetario e inflazione.
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1csQf3ThG7QzLbqqta7VaoS_CzCvwMpgH/view?usp=share_link" "newtab" >}}Esercitazione 2{{< /staticref >}} - Mercato de lavoro, sistema monetario e inflazione.
 
 
 
