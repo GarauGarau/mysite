@@ -12,6 +12,7 @@ type: book
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1_9Nxla1glWAS7sD_6YEEpMubqccdR8hb/view?usp=share_link" "newtab" >}}Soluzione esercitazione 2{{< /staticref >}} 
 
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1k-F_VZiE_S3YGeXg9yU6fX8kcwNJbxH1/view?usp=share_link" "newtab" >}}Soluzione esercitazione 3{{< /staticref >}} 
 
 
 
