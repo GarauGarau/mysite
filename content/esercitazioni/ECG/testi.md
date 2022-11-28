@@ -13,6 +13,9 @@ type: book
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/12Kzuqb9Y1i-tc_r19Yg79ExHflQOwQEt/view?usp=sharing" "newtab" >}}Esercitazione 3{{< /staticref >}} - User-defined function su Matlab
 
+- {{< icon name="download" pack="fas" >}} {{< staticref "" "newtab" >}}Esercitazione 4{{< /staticref >}} - Correzione problem set 2
+
+- {{< icon name="download" pack="fas" >}} {{< staticref "" "newtab" >}}Esercitazione 4{{< /staticref >}} - Filtro Hodrick-Prescott (v. pagina soluzioni)
 
 
 
