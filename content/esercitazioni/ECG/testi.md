@@ -15,7 +15,7 @@ type: book
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "" "newtab" >}}Esercitazione 4{{< /staticref >}} - Correzione problem set 2
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "" "newtab" >}}Esercitazione 4{{< /staticref >}} - Filtro Hodrick-Prescott (v. pagina soluzioni)
+- {{< icon name="download" pack="fas" >}} {{< staticref "" "newtab" >}}Esercitazione 5{{< /staticref >}} - Filtro Hodrick-Prescott (v. pagina soluzioni)
 
 
 
