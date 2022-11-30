@@ -14,7 +14,7 @@ type: book
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1iZt3ED9jABIKqrwfd50wpIvZ0hr_-4GG/view?usp=share_link" "newtab" >}}Esercitazione 3{{< /staticref >}} - Crescita economica e modello di Solow.
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1PNyoGU3r04G1wqTs4EZocKnVG_7IF2Cc/view?usp=share_link" "newtab" >}}Esercitazione 4{{< /staticref >}} - Cicli economici, croce croce keynesiana e introduzione al modello IS-LM
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1gsVyjeJ2x71UMbbdN3Tn1Gw6nMbJ7Sbh/view?usp=share_link" "newtab" >}}Esercitazione 4{{< /staticref >}} - Cicli economici, croce croce keynesiana e introduzione al modello IS-LM
 
 
 
