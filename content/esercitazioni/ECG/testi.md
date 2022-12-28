@@ -17,6 +17,7 @@ type: book
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "" "newtab" >}}Esercitazione 5{{< /staticref >}} - Filtro Hodrick-Prescott (v. pagina soluzioni)
 
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1SSp8nj9GcC7L-dVATFOYF83y9f95UXZg/view?usp=share_link" "newtab" >}}Esercitazione 5{{< /staticref >}} - Aggiunta spesa pubblica nei modelli di RBC
 
 
 

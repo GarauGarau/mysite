@@ -17,6 +17,8 @@ type: book
 
 - {{< icon name="terminal" pack="fas" >}} {{< staticref "https://drive.google.com/drive/folders/1Wz7aoHPSGnP9veitG-zAXzcQWEAcApsu?usp=share_link" "newtab" >}}Codici Matlab esercitazione 5{{< /staticref >}}
 
+- {{< icon name="terminal" pack="fas" >}} {{< staticref "https://drive.google.com/drive/folders/1OPSbtlhyng3njpARelR8qu9cKxvux5e_?usp=share_link" "newtab" >}}Codici Matlab esercitazione 6{{< /staticref >}}
+
 
 
 

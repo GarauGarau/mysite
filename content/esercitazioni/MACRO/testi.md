@@ -16,6 +16,10 @@ type: book
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1gsVyjeJ2x71UMbbdN3Tn1Gw6nMbJ7Sbh/view?usp=share_link" "newtab" >}}Esercitazione 4{{< /staticref >}} - Cicli economici, croce croce keynesiana e introduzione al modello IS-LM
 
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1ffKp2IXXkeZNkjgigI1kCAPX3_k8oSdH/view?usp=share_link" "newtab" >}}Esercitazione 5{{< /staticref >}} - Il modello IS-LM
+
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1cvVNxvl0YiKyC-fD1Mg36kSXGRoPAwqt/view?usp=share_link" "newtab" >}}Esercitazione 6{{< /staticref >}} - Il modello AD-AS
+
 
 
 
