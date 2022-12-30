@@ -63,8 +63,6 @@ Although there are several LaTex Editors the two most widely used (offline) rema
 Since compiling the document will produce different types of files, it is *good practice* to create a folder where you will go to save the body of the document *.tex* and any external elements you might decide to use (images, pdfs, tables...).
 
 ```{=latex}
-%This is a comment
-
 \documentclass{article}
 \begin{document}
 
@@ -86,8 +84,6 @@ To use LaTeX, you write your document in a plain text editor and then run it thr
 LaTeX is a versatile and powerful tool for typesetting scientific documents. With a little bit of learning, it can save you a lot of time and effort in formatting your papers and presentations.
 
 \end{document}
-
-
 ```
 This example includes a few basic LaTeX commands:
 
@@ -120,7 +116,8 @@ Here is a simple example of a Beamer presentation:
 
 \begin{frame}
 \frametitle{What is Beamer?}
-Beamer is a LaTeX package for creating professional-quality slides for academic presentations. It offers a wide range of formatting options and is easy to use.
+Beamer is a LaTeX package for creating professional-quality slides for academic
+presentations. It offers a wide range of formatting options and is easy to use.
 \end{frame}
 
 \section{Creating a Basic Slide}
