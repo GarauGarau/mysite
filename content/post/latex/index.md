@@ -73,15 +73,23 @@ Since compiling the document will produce different types of files, it is *good 
 \maketitle
 
 \section{Introduction}
-LaTeX is a powerful typesetting system that is widely used in the publication of scientific documents. It is particularly well-suited for handling complex mathematical notation.
+LaTeX is a powerful typesetting system that is widely used in the publication 
+of scientific documents. It is particularly well-suited for handling complex 
+mathematical notation.
 
 \section{The Basics}
-To use LaTeX, you write your document in a plain text editor and then run it through a LaTeX compiler to generate a formatted PDF. LaTeX uses a markup language similar to HTML, with commands enclosed in backslashes (\textbackslash). For example, to create a bold heading, you might use the following command:
+To use LaTeX, you write your document in a plain text editor and then run it 
+through a LaTeX compiler to generate a formatted PDF. LaTeX uses a markup 
+language similar to HTML, with commands enclosed in 
+backslashes (\textbackslash). For example, to create a bold heading, 
+you might use the following command:
 
 \textbackslash textbf\{My Bold Heading\}
 
 \section{Conclusion}
-LaTeX is a versatile and powerful tool for typesetting scientific documents. With a little bit of learning, it can save you a lot of time and effort in formatting your papers and presentations.
+LaTeX is a versatile and powerful tool for typesetting scientific documents. 
+With a little bit of learning, it can save you a lot of time and effort in 
+formatting your papers and presentations.
 
 \end{document}
 ```
