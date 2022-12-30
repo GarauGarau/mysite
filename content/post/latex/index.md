@@ -165,4 +165,36 @@ This example includes the following Beamer commands:
 - `\begin{frame}` and `\end{frame}` mark the beginning and end of a slide.
 - `\frametitle` is used to specify the title of a slide.
 
-![Alt text here](imm.jpg "Sto ancora lavorando a questo articolo, ripassa tra qualche giorno per leggere la sua versione definitiva")
+Note how you can choose different themes and styles. In Beamer, a theme is a set of formatting options that determines the overall appearance of a presentation, including the layout, color scheme, and font choices. A style is a set of formatting options that affects the appearance of specific elements within a presentation, such as headings, bullet points, or code blocks.
+
+Beamer includes a number of built-in themes and styles that you can use to customize the appearance of your presentation. To use a particular theme or style, you can include the corresponding command in your LaTeX document. For example, to use the "AnnArbor" theme, you would include the following command:
+
+```{=latex}
+\usetheme{AnnArbor}
+```
+
+Similarly, to use the "default" style for bullet points, you would include the following command:
+
+```{=latex}
+\usepackage{default}
+```
+
+You can also create your own custom themes and styles by defining your own formatting commands. This can be useful if you want to create a consistent look and feel for your presentations or if you need to meet specific formatting requirements.
+
+Here are some examples of popular Beamer themes and styles:
+
+**Themes:**
+- "AnnArbor"
+- "Berkeley"
+- "Copenhagen"
+- "Goettingen"
+- "Madrid"
+
+**Styles:**
+- "default"
+- "infolines"
+- "sidebar"
+- "tree"
+- "smoothbars"
+
+You can find more information about Beamer themes and styles in the Beamer documentation page. Also  [this site](https://mpetroff.net/files/beamer-theme-matrix/) is an excellent source to get a general view of all the possibilities in terms of Themes and Colors Themes.
