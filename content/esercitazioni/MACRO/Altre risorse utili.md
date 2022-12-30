@@ -19,11 +19,11 @@ type: book
 
 - [La Bce e l’inflazione testarda - Lavoce.info](https://www.lavoce.info/archives/98471/la-bce-e-linflazione-testarda/)
 
--[OCP - Sostenibilità fiscale e sostenibilità del debito pubblico](https://osservatoriocpi.unicatt.it/ocpi-lezioni-di-finanza-pubblica-3-sostenibilita-fiscale-e-sostenibilita-del-debito-pubblico)
+- [Sostenibilità fiscale e sostenibilità del debito pubblico - OCP ](https://osservatoriocpi.unicatt.it/ocpi-lezioni-di-finanza-pubblica-3-sostenibilita-fiscale-e-sostenibilita-del-debito-pubblico)
 
--[OCP - Interazione tra politica di bilancio e monetaria](https://osservatoriocpi.unicatt.it/ocpi-lezioni-di-finanza-pubblica-4-interazione-tra-politica-di-bilancio-e-monetaria)
+- [Interazione tra politica di bilancio e monetaria - OCP](https://osservatoriocpi.unicatt.it/ocpi-lezioni-di-finanza-pubblica-4-interazione-tra-politica-di-bilancio-e-monetaria)
 
--[OCP - Il ruolo della spesa pubblica](https://osservatoriocpi.unicatt.it/ocpi-lezioni-di-finanza-pubblica-8-il-ruolo-della-spesa-pubblica)
+- [Il ruolo della spesa pubblica - OCP](https://osservatoriocpi.unicatt.it/ocpi-lezioni-di-finanza-pubblica-8-il-ruolo-della-spesa-pubblica)
 
 
 
