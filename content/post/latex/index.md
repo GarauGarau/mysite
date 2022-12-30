@@ -91,14 +91,16 @@ LaTeX is a versatile and powerful tool for typesetting scientific documents. Wit
 ```
 This example includes a few basic LaTeX commands:
 
-- \documentclass{article} specifies that this is an article-style document.
-- \begin{document} and \end{document} mark the beginning and end of the document.
-- \title, \author, and \date are used to specify the title, author, and date of the document.
-- \maketitle generates the title, author, and date information at the top of the document.
-- \section is used to create a new section, with the text in curly braces ({}) serving as the section title.
+- `\documentclass{article}` specifies that this is an article-style document.
+- `begin{document} and end{document}` mark the beginning and end of the document.
+- `\title, \author, and \date` are used to specify the title, author, and date of the document.
+- `\maketitle` generates the title, author, and date information at the top of the document.
+- `\section` is used to create a new section, with the text in curly braces ({}) serving as the section title.
 
+## Make your first Beamer presentation
 
+Beamer is a LaTeX package that allows you to create professional-quality slides for academic presentations. It is a powerful and flexible tool that offers a wide range of formatting options, including support for animations, overlays, and beamer themes.
 
-
+To use Beamer, you need to have a working LaTeX installation on your computer. You can then create a Beamer presentation by using the `\documentclass{beamer}` command at the top of your LaTeX document, and then writing your content using a combination of Beamer commands and standard LaTeX.
 
 ![Alt text here](imm.jpg "Sto ancora lavorando a questo articolo, ripassa tra qualche giorno per leggere la sua versione definitiva")
