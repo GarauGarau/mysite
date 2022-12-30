@@ -92,15 +92,72 @@ LaTeX is a versatile and powerful tool for typesetting scientific documents. Wit
 This example includes a few basic LaTeX commands:
 
 - `\documentclass{article}` specifies that this is an article-style document.
-- `begin{document} and end{document}` mark the beginning and end of the document.
-- `\title, \author, and \date` are used to specify the title, author, and date of the document.
+- `\begin{document}` and `\end{document}` mark the beginning and end of the document.
+- `\title, \author`, and `\date` are used to specify the title, author, and date of the document.
 - `\maketitle` generates the title, author, and date information at the top of the document.
 - `\section` is used to create a new section, with the text in curly braces ({}) serving as the section title.
 
 ## Make your first Beamer presentation
 
-Beamer is a LaTeX package that allows you to create professional-quality slides for academic presentations. It is a powerful and flexible tool that offers a wide range of formatting options, including support for animations, overlays, and beamer themes.
+[Beamer](https://ctan.org/pkg/beamer?lang=en) is a LaTeX package that allows you to create professional-quality slides for academic presentations. It is a powerful and flexible tool that offers a wide range of formatting options, including support for animations, overlays, and beamer themes.
 
 To use Beamer, you need to have a working LaTeX installation on your computer. You can then create a Beamer presentation by using the `\documentclass{beamer}` command at the top of your LaTeX document, and then writing your content using a combination of Beamer commands and standard LaTeX.
+
+Here is a simple example of a Beamer presentation:
+```{=latex}
+\documentclass{beamer}
+
+\title{An Introduction to Beamer}
+\author{John Doe}
+\institute{University of Example}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+\begin{frame}
+\frametitle{What is Beamer?}
+Beamer is a LaTeX package for creating professional-quality slides for academic presentations. It offers a wide range of formatting options and is easy to use.
+\end{frame}
+
+\section{Creating a Basic Slide}
+
+\begin{frame}
+\frametitle{The Basics}
+To create a basic slide, you can use the following template:
+
+\begin{verbatim}
+\begin{frame}
+\frametitle{My Slide Title}
+
+My slide content goes here.
+\end{frame}
+\end{verbatim}
+\end{frame}
+
+\section{Conclusion}
+
+\begin{frame}
+\frametitle{Summary}
+- Beamer is a powerful and flexible tool for creating academic presentations.
+- It offers a wide range of formatting options and is easy to use.
+- With a little bit of practice, you'll be creating beautiful slides in no time!
+\end{frame}
+
+\end{document}
+
+```
+
+This example includes the following Beamer commands:
+
+- `\documentclass{beamer}` specifies that this is a Beamer presentation.
+- `\title`, `\author`, `\institute`, and `\date` are used to specify the title, author, institute, and date of the presentation.
+- `\maketitle` generates the title, author, institute, and date information at the top of the first slide.
+- `\section` is used to create a new section, with the text in curly braces ({}) serving as the section title.
+- `\begin{frame}` and `\end{frame}` mark the beginning and end of a slide.
+- `\frametitle` is used to specify the title of a slide.
 
 ![Alt text here](imm.jpg "Sto ancora lavorando a questo articolo, ripassa tra qualche giorno per leggere la sua versione definitiva")
