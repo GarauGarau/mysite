@@ -19,6 +19,7 @@ type: book
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1SSp8nj9GcC7L-dVATFOYF83y9f95UXZg/view?usp=share_link" "newtab" >}}Esercitazione 6{{< /staticref >}} - Aggiunta spesa pubblica nei modelli di RBC
 
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1SwstpPzoe4OSVF02h4AQjEqrHCaYPjsr/view?usp=share_link" "newtab" >}}Esercitazione 6{{< /staticref >}} - Aspettative adattive e AD-AS
 
 
 

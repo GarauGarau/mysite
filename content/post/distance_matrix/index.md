@@ -132,5 +132,3 @@ Attenzione: QGIS, di default, salverà tutto utilizzando il sistema decimale in 
 
 Ricordate che le distanze trovate sono espresse in termini di distanza aerea, per cui dati due punti potrete anche verificare che il processo svolto sia corretto. Per farlo potete identificaredue punti qualsiasi (che corrisponderanno a due centroidi) e con lo strumento **Misura Linea** verificare se la distanza restituita dallo strumento corrisponde a quella nella matrice, in questo modo potrete avere la certezza di aver svolto tutto nel modo corretto. 
 
-
-

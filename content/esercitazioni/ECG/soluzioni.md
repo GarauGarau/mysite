@@ -19,6 +19,7 @@ type: book
 
 - {{< icon name="terminal" pack="fas" >}} {{< staticref "https://drive.google.com/drive/folders/1OPSbtlhyng3njpARelR8qu9cKxvux5e_?usp=share_link" "newtab" >}}Codici Matlab esercitazione 6{{< /staticref >}}
 
+- {{< icon name="terminal" pack="fas" >}} {{< staticref "https://drive.google.com/drive/folders/136ui7FKMQSztKRTr5qNpMv-PdqAT2msb?usp=share_link" "newtab" >}}Codici Matlab, calcoli e analisi qualitativa esercitazione 7{{< /staticref >}}
 
 
 

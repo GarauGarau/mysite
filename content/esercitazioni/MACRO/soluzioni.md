@@ -18,7 +18,9 @@ type: book
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1zoDeIbpwpkffoQhnmW2s4vs7l9TVQQHO/view?usp=share_link" "newtab" >}}Soluzione esercitazione 5{{< /staticref >}}
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1zavmf5iGqudN6qjhb4imljSPJTph38Ce/view?usp=share_link" "newtab" >}}Soluzione esercitazione 6{{< /staticref >}} 
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1zavmf5iGqudN6qjhb4imljSPJTph38Ce/view?usp=share_link" "newtab" >}}Soluzione esercitazione 6{{< /staticref >}}
+
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/10PtkPaYCg1jlZI0aSGMc7R_XO4n44PF6/view?usp=share_link" "newtab" >}}Soluzione simulazione esame{{< /staticref >}} 
 
 
 
