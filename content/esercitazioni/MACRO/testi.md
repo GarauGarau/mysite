@@ -20,7 +20,7 @@ type: book
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1cvVNxvl0YiKyC-fD1Mg36kSXGRoPAwqt/view?usp=share_link" "newtab" >}}Esercitazione 6{{< /staticref >}} - Il modello AD-AS
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1cvVNxvl0YiKyC-fD1Mg36kSXGRoPAwqt/view?usp=share_link" "newtab" >}}Esercitazione 6{{< /staticref >}} - Simulazione esame
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1FLp8yOa0eA0DaPECNebI_hUKLz_OZn9P/view?usp=share_link" "newtab" >}}Esercitazione 7{{< /staticref >}} - Simulazione esame
 
 
 
