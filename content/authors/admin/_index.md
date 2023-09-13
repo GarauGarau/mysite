@@ -16,7 +16,7 @@ highlight_name: true
 interests:
 - Spatial Economics
 - Labour Economics
-- Econoimics of Growth
+- Economics of Growth
 organizations:
 - name: University of Cagliari
   url: https://www.unica.it/unica/
@@ -24,7 +24,7 @@ role: PhD student in economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:alessiogarau@gmail.com
+  link: mailto:alessiogarau22@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alessiogarau22
