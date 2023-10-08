@@ -1,11 +1,8 @@
 {{- define "main" -}}
 {{ $pub_types := partial "functions/get_pub_types" $ }}
 {{ $pub_type_param := .Params.publication_types | default (slice 0) }}
-
-{{/* Convert string in form `"0"` to int (`0`) */}}
 {{ $pub_type := (int (index $pub_type_param 0)) | default 0 }}
 
-{{/* Validate Pub Type if defined */}}
 {{ if gt $pub_type (sub (len $pub_types) 1) }}
   {{ warnf "Unknown publication type in %s" .File.Path }}
   {{ $pub_type = 0 }}
@@ -41,7 +38,23 @@
     <div class="d-md-none space-below"></div>
     {{ end }}
 
+    {{/* Display the publication's category */}}
+    {{ with .Params.categories }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Category</div>
+          <div class="col-12 col-md-9">{{ range . }}{{ . }}{{ end }}</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
     {{ if .Params.publication }}
+    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">

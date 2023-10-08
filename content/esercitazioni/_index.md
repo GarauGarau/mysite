@@ -2,7 +2,7 @@
 cms_exclude: true
 title: "Esercitazioni"
 type: book
-weight: 2
+weight: 30
 ---
 ---
 Pagina dedicata al caricamento delle esercitazioni per i corsi di Macroeconomia (triennale - EGA1) ed Economia della Crescita e della Globalizzazione (Magistrale - EFPP).

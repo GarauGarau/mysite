@@ -4,12 +4,12 @@ authors:
 categories:
 - Tutorial
 date: "2022-10-23T15:21:54+05:30"
-draft: True
+draft: False
 featured: false
 lastmod: "2022-10-28T15:21:54+05:30"
 projects: []
 subtitle: "First steps and working templates"
-summary: "Quali sono le ragioni che rendono LaTex il linguaggio tipografico più utilizzato in ambito accademico? Una breve guida sui vantaggi che potrai sperimentare durante il suo utilizzo, i primi passi da compiere e alcuni template da riutilizzare nei tuoi progetti."
+summary: "What are the reasons that make LaTeX the most used typographic language in academia? Here's a brief guide on the advantages you will experience during its use, the initial steps to take, and some templates to reuse in your projects."
 tags:
 - LaTex
 - Tutorial
@@ -44,7 +44,7 @@ One of the key features of LaTeX is its ability to handle complex mathematical n
 
 ## Installation
 
-To use LaTeX, you need to have a LaTeX compiler installed on your computer. There are many free and open-source LaTeX compilers available, such as [TeX Live](https://www.tug.org/texlive/) and MiKTeX. Once you have a compiler installed, you can create a LaTeX document by writing your content using the LaTeX markup language and then compiling the document using the compiler. The compiler will produce a typeset document in the form of a PDF or other format, which you can then view or print.
+To use LaTeX, you need to have a LaTeX distribution installed on your computer. There are many free and open-source LaTeX distributions available, such as [TeX Live](https://www.tug.org/texlive/) and MiKTeX. Once you have a distribution installed, you can create a LaTeX document by writing your content using the LaTeX markup language and then compiling the document. The compiler will produce a typeset document in the form of a PDF or other format, which you can then view or print.
 
 {{% callout warning %}}
   **Remember**: LaTex is the "language" and should be distinguished from a simple editor or compiler. The latter alone would not be able to reproduce the desired result. Its purpose will only be to provide us with an interface with which to write (and compile) code nimbly.
@@ -105,7 +105,7 @@ This example includes a few basic LaTeX commands:
 
 [Beamer](https://ctan.org/pkg/beamer?lang=en) is a LaTeX package that allows you to create professional-quality slides for academic presentations. It is a powerful and flexible tool that offers a wide range of formatting options, including support for animations, overlays, and beamer themes.
 
-To use Beamer, you need to have a working LaTeX installation on your computer. You can then create a Beamer presentation by using the `\documentclass{beamer}` command at the top of your LaTeX document, and then writing your content using a combination of Beamer commands and standard LaTeX.
+To use Beamer, you need to have a working LaTeX installation on your computer. You can then create a Beamer presentation by using the `\documentclass{beamer}` command at the top of your TeX document, and then writing your content using a combination of Beamer commands and standard LaTeX.
 
 Here is a simple example of a Beamer presentation:
 ```{=latex}
@@ -197,4 +197,4 @@ Here are some examples of popular Beamer themes and styles:
 - "tree"
 - "smoothbars"
 
-You can find more information about Beamer themes and styles in the Beamer documentation page. Also  [this site](https://mpetroff.net/files/beamer-theme-matrix/) is an excellent source to get a general view of all the possibilities in terms of Themes and Colors Themes.
+You can find more information about Beamer themes and styles in the Beamer documentation page. Also  [this site](https://mpetroff.net/files/beamer-theme-matrix/) is an excellent source to get a general view of all the possibilities in terms of Themes and Colors.
