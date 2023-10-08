@@ -1,8 +1,8 @@
 ---
 cms_exclude: true
 title: "Economia della Crescita e della Globalizzazione"
-summary: "Pagina dedicata al caricamento delle esercitazioni"
-date: 2022-10-26
+summary: "Esercitazioni A.A. 2022/2023"
+date: 2023-10-08
 type: book
 weight: 3
 ---
