@@ -10,7 +10,7 @@ main:
   - name: Research
     url: '/research'
     weight: 20
-  - name: Posts
+  - name: Blog
     url: '/post'
     weight: 40
   - name: Esercitazioni 

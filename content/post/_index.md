@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Posts
 cms_exclude: true
 header:
   caption: ""
