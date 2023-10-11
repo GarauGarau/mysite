@@ -20,7 +20,7 @@ share: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 ---
 
 # Introduzione e obiettivi

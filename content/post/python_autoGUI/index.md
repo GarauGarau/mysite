@@ -3,10 +3,10 @@ authors:
 - admin
 categories:
 - Tutorial
-date: "2023-10-08T00:00:00Z"
-draft: true
+date: "2023-10-11T00:00:00Z"
+draft: false
 featured: false
-lastmod: "2023-10-08T11:56:00Z"
+lastmod: "2023-10-11T11:56:00Z"
 projects: []
 subtitle: "A Real-Life Use Case"
 summary: ""
@@ -16,7 +16,7 @@ tags:
 - pyautogui
 - Automating Repetitive Tasks
 
-title: Automating Repetitive Tasks Using Python
+title: Automating Repetitive Tasks Using PyAutoGUI
 
 reading_time: true 
 
@@ -25,7 +25,7 @@ share: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 ---
 
 {{< toc >}}
@@ -40,7 +40,7 @@ I had the hefty task of downloading over 40,000 articles from [EconLit](https://
 
 <figure>
   <img src="mygif.gif" alt="Description of GIF" width="500" height="300">
-  <figcaption><a name="fig1">Figure 1</a>: Caption for the GIF goes here.</figcaption>
+  <figcaption><a name="fig1">Figure 1</a>: The task to automate.</figcaption>
 </figure>
 
 This limitation compelled users to undertake the tedious process of manually exporting 200 articles at a time. The interface allowed me to select and download articles in batches, with each batch comprising a maximum of 200 articles. For instance, I had to select and download articles numbered 1-200 in the first batch, then proceed with the next set, numbered 201-401, and continue this manual, iterative process. This meant that for 40,000 articles, I would have to repeat this process 200 times!
@@ -60,7 +60,12 @@ To expedite this process, I crafted a Python script utilizing the PyAutoGUI libr
 ### Script Explanation
 
 Below is a brief walkthrough of the script’s structure and functionality.
-Initially, the script invites the user to identify crucial on-screen locations. Think of this step as calibrating the tool for the task ahead, providing it with the 'coordinates' it will need to navigate the downloading process on your behalf. The positions of the input box, export location, export button, save bar, and save button are all recorded, each corresponding to a significant step in the download process.
+Initially, the script invites the user to identify crucial positions on screen locations. Think of this step as calibrating the tool for the task ahead, providing it with the 'coordinates' it will need to navigate the downloading process on your behalf. The positions of the input box, export location, export button, save bar, and save button are all recorded, each corresponding to a particular coordinate in the screen.
+
+<figure>
+  <img src="mygif2.gif" alt="Description of GIF" width="600" height="400">
+  <figcaption><a name="fig2">Figure 2</a>: The script at work.</figcaption>
+</figure>
 
 Following this setup, the script transitions into its primary function: the automated download sequence. This part of the script acts as a virtual operator, conducting the series of actions you'd usually perform manually. It inputs the article range, navigates through the export process using the predetermined coordinates, and saves each file with a unique name.
 
