@@ -13,8 +13,10 @@ summary: ""
 tags:
 - Python
 - Repetitive Tasks
-- pyautogui
+- PyAutoGui
 - Automating Repetitive Tasks
+- GUI Automation
+- PyAutoGui practical use case
 
 title: Automating Repetitive Tasks Using PyAutoGUI
 
