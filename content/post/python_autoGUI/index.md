@@ -9,7 +9,7 @@ featured: false
 lastmod: "2023-10-11T11:56:00Z"
 projects: []
 subtitle: "A Real-Life Use Case"
-summary: ""
+summary: "Automation is an indispensable tool when dealing with repetitive and time-consuming tasks. In this article, we’ll explore a real-life scenario in which Python, combined with the PyAutoGUI library, significantly simplifies a cumbersome data extraction process from EconLit."
 tags:
 - Python
 - Repetitive Tasks
