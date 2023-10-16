@@ -13,15 +13,17 @@ summary: "There's a magic in Haruki Murakami's words that makes us drift into an
 
 tags: 
 - OpenAI
-- Dalle3
+- DALL·E 3
 - TextToImage
 - Prompting
 - ChatGPT
 - AIart
+- Murakami
+- Murakami DALL·E 3
 
 
 
-title: I Asked DALL$\cdot$E 3 to Visualize Murakami's Books
+title: I Asked DALL·E 3 to Visualize Murakami's Books
 
 reading_time: true 
 
@@ -47,14 +49,14 @@ Big tech companies are starting to hire folks with humanistic background because
 
 The landscape of AI-driven image generation has always been a delicate dance between human input and machine output. Historically, the process required users to supply highly detailed prompts to produce accurate visuals. Take, for instance, the system [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F). To paint a picture of a serene scene, one might have to describe it meticulously:
 
-   {{< figure src="midj.jpg" caption="**A Midjourney prompt:** The parametric hotel lobby is a sleek and modern space with plenty of natural light. The lobby is spacious and open with a variety of seating options. The front desk is a sleek white counter with a parametric design. The walls are a light blue color with parametric patterns. The floor is a light wood color with a parametric design. There are plenty of plants and flowers throughout the space. The overall effect is a calm and relaxing space. occlusion, moody, sunset, concept art, octane rendering, 8k, highly detailed, concept art, highly detailed, beautiful scenery, cinematic, beautiful light, hyperreal, octane render, hdr, long exposure, 8K, realistic, fog, moody, fire and explosions, smoke, 50mm f2.8" numbered="true" width="400" height="400" >}}
+   {{< figure src="midj.jpg" caption="A Midjourney prompt: The parametric hotel lobby is a sleek and modern space with plenty of natural light. The lobby is spacious and open with a variety of seating options. The front desk is a sleek white counter with a parametric design. The walls are a light blue color with parametric patterns. The floor is a light wood color with a parametric design. There are plenty of plants and flowers throughout the space. The overall effect is a calm and relaxing space. occlusion, moody, sunset, concept art, octane rendering, 8k, highly detailed, concept art, highly detailed, beautiful scenery, cinematic, beautiful light, hyperreal, octane render, hdr, long exposure, 8K, realistic, fog, moody, fire and explosions, smoke, 50mm f2.8" numbered="true" width="400" height="400" >}}
 
 
-Yet, the advent of [DALL$\cdot$E 3](https://openai.com/dall-e-3), with its integration into ChatGPT, is ushering in a new era. This technology shows an uncanny ability to *auto-prompt*, or intuitively grasp, the essence of a description.
+Yet, the advent of [DALL·E 3](https://openai.com/dall-e-3), with its integration into ChatGPT, is ushering in a new era. This technology shows an uncanny ability to *auto-prompt*, or intuitively grasp, the essence of a description.
 
-During these tech advancements, I had an idea for a fun experiment. I've always been a big fan of [Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami). His stories, filled with amazing places and deep feelings, have always captivated me. So, I thought, why not see how DALL$\cdot$E 3 handles his writings? Can it create pictures that match the dreamy and mysterious worlds Murakami describes? As I went through this experiment, I didn't just learn about what the AI could do, but also thought a lot about how our favorite stories can turn into pictures in our minds—and now, on the screen.
+During these tech advancements, I had an idea for a fun experiment. I've always been a big fan of [Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami). His stories, filled with amazing places and deep feelings, have always captivated me. So, I thought, why not see how DALL·E 3 handles his writings? Can it create pictures that match the dreamy and mysterious worlds Murakami describes? As I went through this experiment, I didn't just learn about what the AI could do, but also thought a lot about how our favorite stories can turn into pictures in our minds—and now, on the screen.
 
-For this experiment, I took a bunch of paragraphs and quotes from  some of my favorite Murakami 's books. From these,  With each chosen passage, I presented it to DALL-E 3 within ChatGPT. Alongside each Murakami quote, I've posted its corresponding AI-generated image where the associate caption is the auto-generated prompt by ChatGPT.
+For this experiment, I took a bunch of paragraphs and quotes from  some of my favorite Murakami 's books. From these,  With each chosen passage, I presented it to DALL·E 3 within ChatGPT. Alongside each Murakami quote, I've posted its corresponding AI-generated image where the associate caption is the auto-generated prompt by ChatGPT.
 
 ## #1 Kafka on the Shore
 
