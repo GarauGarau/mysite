@@ -47,7 +47,7 @@ Big tech companies are starting to hire folks with humanistic background because
 </center>
 
 
-The landscape of AI-driven image generation has always been a delicate dance between human input and machine output. Historically, the process required users to supply highly detailed prompts to produce accurate visuals. Take, for instance, the system [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F). To paint a picture of a serene scene, one might have to describe it meticulously:
+The landscape of AI-driven image generation has always been a delicate dance between human input and machine output. Historically, the process required users to supply highly detailed prompts to produce accurate visuals. Take, for instance, the system [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F). To paint a picture of a serene scene, one might have to describe it meticulously, also requiring the definition of technical concepts related to the photographic world such as lens aperture and shutter speed.
 
    {{< figure src="midj.jpg" caption="A Midjourney prompt: The parametric hotel lobby is a sleek and modern space with plenty of natural light. The lobby is spacious and open with a variety of seating options. The front desk is a sleek white counter with a parametric design. The walls are a light blue color with parametric patterns. The floor is a light wood color with a parametric design. There are plenty of plants and flowers throughout the space. The overall effect is a calm and relaxing space. occlusion, moody, sunset, concept art, octane rendering, 8k, highly detailed, concept art, highly detailed, beautiful scenery, cinematic, beautiful light, hyperreal, octane render, hdr, long exposure, 8K, realistic, fog, moody, fire and explosions, smoke, 50mm f2.8" numbered="true" width="400" height="400" >}}
 
@@ -70,7 +70,7 @@ And once the storm is over you won't remember how you made it through, how you m
 
 ## #2 Men Without Women 
 
-And once you’ve become Men Without Women, loneliness seeps deep down inside your body, like a red-wine stain on a pastel carpet. No matter how many home ec books you study, getting rid of that stain isn’t easy. The stain might fade a bit over time, but it will still remain, as a stain, until the day you draw your final breath. It has the right to be a stain, the right to make the occasional, public, stain-like pronouncement. And you are left to live the rest of your life with that gradual spread of that colour, with that ambiguous outline
+And once you’ve become Men Without Women, loneliness seeps deep down inside your body, like a red-wine stain on a pastel carpet. No matter how many home ec books you study, getting rid of that stain isn’t easy. The stain might fade a bit over time, but it will still remain, as a stain, until the day you draw your final breath. It has the right to be a stain, the right to make the occasional, public, stain-like pronouncement. And you are left to live the rest of your life with that gradual spread of that colour, with that ambiguous outline.
 
    {{< figure src="Murakami2.png" caption="Candid photography of an individual reflecting in solitude. The background captures a room with muted tones and a prominent red-wine stain on the carpet. The scene is a metaphorical representation of the deep-seated loneliness described in the text." numbered="true" width="400" height="400" >}}
 
