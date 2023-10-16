@@ -9,7 +9,7 @@ featured: false
 lastmod: "2023-10-16T11:56:00Z"
 projects: []
 subtitle: "This is what happened"
-summary: "There's a magic in Haruki Murakami's words that makes us drift into another dimension. But how would an AI, unfamiliar with human emotions, translate these literary sensations into images? I challenged DALL-E 3 to show me the world of Murakami's novels."
+summary: "There's a magic in Haruki Murakami's words that makes us drift into another dimension. But how would an AI, unfamiliar with human emotions, translate these literary sensations into images? I challenged DALL·E 3 to show me the world of Murakami's novels."
 
 tags: 
 - OpenAI
