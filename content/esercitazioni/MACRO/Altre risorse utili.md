@@ -1,6 +1,6 @@
 ---
 title: Altre risorse utili
-summary: "Siti in cui recuperare dati, approfondimenti e articoli interessanti"
+summary: "Siti in cui trovare dati e approfondimenti"
 date: 2022-10-27
 type: book
 ---

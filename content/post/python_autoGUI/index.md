@@ -45,7 +45,7 @@ I had the hefty task of downloading over 40,000 articles from [EconLit](https://
   <figcaption><a name="fig1">Figure 1</a>: The task to automate.</figcaption>
 </figure>
 
-This limitation compelled users to undertake the tedious process of manually exporting 200 articles at a time. The interface allowed me to select and download articles in batches, with each batch comprising a maximum of 200 articles. For instance, I had to select and download articles numbered 1-200 in the first batch, then proceed with the next set, numbered 201-401, and continue this manual, iterative process. This meant that for 40,000 articles, I would have to repeat this process 200 times!
+This limitation compelled users to undertake the tedious process of manually exporting 200 articles at a time. The interface allowed me to select and download articles in batches, with each batch comprising a maximum of 200 articles. For instance, I had to select and download articles numbered 1-200 in the first batch, then proceed with the next set, numbered 201-400, and continue this manual, iterative process. This meant that for 40,000 articles, I would have to repeat this process 200 times!
 
 But manual processes are notoriously prone to human errors. Every selection, click, and naming action opened up possibilities for mistakes. Perhaps I might skip a batch, select the wrong range of articles, or even name the files inconsistently, leading to confusion and disorder in the dataset. Such mistakes were not just hypothetical; given the monotonous and repetitive nature of the task, they were almost inevitable.
 
