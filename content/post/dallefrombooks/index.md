@@ -36,14 +36,23 @@ image:
 
 ## Introduction
 
-Have you ever tried to explain something tricky, and wished the person could just see inside your mind? That's the idea behind prompts for AI. A prompt is a clear instruction, or direction, to get AI to understand and produce what you want.
+Have you ever tried to explain something tricky, and wished the person could just see inside your mind? That's the [idea behind prompts](https://cdn.openart.ai/assets/Stable%20Diffusion%20Prompt%20Book%20From%20OpenArt%2011-13.pdf) for AI. A prompt is a clear instruction, or direction, to get AI to understand and produce what you want.
 Big tech companies are starting to hire folks with humanistic background because they're good at this. They know how to use words in a way that paints clear pictures. And this skill is super useful when you want AI to create a specific image from a description.
 
-The landscape of AI-driven image generation has always been a delicate dance between human input and machine output. Historically, the process required users to supply highly detailed prompts to produce accurate visuals. Take, for instance, the system 'Midjourney'. To paint a picture of a serene scene, one might have to describe it meticulously:
 
-Yet, the advent of DALL-E 3, with its integration into ChatGPT, is ushering in a new era. This technology shows an uncanny ability to 'auto-prompt', or intuitively grasp, the essence of a description.
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The hottest new programming language is English</p>&mdash; Andrej Karpathy (@karpathy) <a href="https://twitter.com/karpathy/status/1617979122625712128?ref_src=twsrc%5Etfw">January 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</center>
 
-During these tech advancements, I had an idea for a fun experiment. I've always been a big fan of Murakami. His stories, filled with amazing places and deep feelings, have always captivated me. So, I thought, why not see how DALL-E 3 handles his writings? Can it create pictures that match the dreamy and mysterious worlds Murakami describes? As I went through this experiment, I didn't just learn about what the AI could do, but also thought a lot about how our favorite stories can turn into pictures in our minds—and now, on the screen.
+
+The landscape of AI-driven image generation has always been a delicate dance between human input and machine output. Historically, the process required users to supply highly detailed prompts to produce accurate visuals. Take, for instance, the system [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F). To paint a picture of a serene scene, one might have to describe it meticulously:
+
+   {{< figure src="midj.jpg" caption="**A Midjourney prompt:** The parametric hotel lobby is a sleek and modern space with plenty of natural light. The lobby is spacious and open with a variety of seating options. The front desk is a sleek white counter with a parametric design. The walls are a light blue color with parametric patterns. The floor is a light wood color with a parametric design. There are plenty of plants and flowers throughout the space. The overall effect is a calm and relaxing space. occlusion, moody, sunset, concept art, octane rendering, 8k, highly detailed, concept art, highly detailed, beautiful scenery, cinematic, beautiful light, hyperreal, octane render, hdr, long exposure, 8K, realistic, fog, moody, fire and explosions, smoke, 50mm f2.8" numbered="true" width="400" height="400" >}}
+
+
+Yet, the advent of [DALL$\cdot$E 3](https://openai.com/dall-e-3), with its integration into ChatGPT, is ushering in a new era. This technology shows an uncanny ability to *auto-prompt*, or intuitively grasp, the essence of a description.
+
+During these tech advancements, I had an idea for a fun experiment. I've always been a big fan of [Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami). His stories, filled with amazing places and deep feelings, have always captivated me. So, I thought, why not see how DALL$\cdot$E 3 handles his writings? Can it create pictures that match the dreamy and mysterious worlds Murakami describes? As I went through this experiment, I didn't just learn about what the AI could do, but also thought a lot about how our favorite stories can turn into pictures in our minds—and now, on the screen.
 
 For this experiment, I took a bunch of paragraphs and quotes from  some of my favorite Murakami 's books. From these,  With each chosen passage, I presented it to DALL-E 3 within ChatGPT. Alongside each Murakami quote, I've posted its corresponding AI-generated image where the associate caption is the auto-generated prompt by ChatGPT.
 
@@ -51,11 +60,11 @@ For this experiment, I took a bunch of paragraphs and quotes from  some of my fa
 
 Sometimes fate is like a small sandstorm that keeps changing directions. You change direction but the sandstorm chases you. You turn again, but the storm adjusts. Over and over you play this out, like some ominous dance with death just before dawn. Why? Because this storm isn't something that blew in from far away, something that has nothing to do with you. This storm is you. Something inside of you. So all you can do is give in to it, step right inside the storm, closing your eyes and plugging up your ears so the sand doesn't get in, and walk through it, step by step. There's no sun there, no moon, no direction, no sense of time. Just fine white sand swirling up into the sky like pulverized bones. That's the kind of sandstorm you need to imagine.
 
-   {{< figure src="Murakami1.png" caption="Photo of a person standing amidst a fierce sandstorm. The sand seems almost alive, swirling violently around them. The person's eyes are closed, and they have their hands raised to protect their face. The atmosphere is thick, making it hard to see anything beyond the immediate vicinity." numbered="true" width="400" height="400" >}}
-
 And you really will have to make it through that violent, metaphysical, symbolic storm. No matter how metaphysical or symbolic it might be, make no mistake about it: it will cut through flesh like a thousand razor blades. People will bleed there, and you will bleed too. Hot, red blood. You'll catch that blood in your hands, your own blood and the blood of others.
 
 And once the storm is over you won't remember how you made it through, how you managed to survive. You won't even be sure, in fact, whether the storm is really over. But one thing is certain. When you come out of the storm you won't be the same person who walked in. That's what this storm's all about.
+
+{{< figure src="Murakami1.png" caption="Photo of a person standing amidst a fierce sandstorm. The sand seems almost alive, swirling violently around them. The person's eyes are closed, and they have their hands raised to protect their face. The atmosphere is thick, making it hard to see anything beyond the immediate vicinity." numbered="true" width="400" height="400" >}}
 
 ## #2 Men Without Women 
 
