@@ -8,7 +8,9 @@ type: book
 
 ## Testi esercitazioni
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1q8QZEKwb2XLTUJNGJKg3mR1DQhGDsX90/view?usp=sharing" "newtab" >}}Esercitazione 1{{< /staticref >}} - Ripasso retta, contabilità nazionale e IPC
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1eTPdOI0sKz3EdVxwdox433QpVEmEzMHU/view?usp=sharing" "newtab" >}}Esercitazione 1{{< /staticref >}} - Contabilità nazionale e IPC
+
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1jcdHaHABs1Df-SEmH1kHRroFJ9ZuYz95/view?usp=sharingg" "newtab" >}}Esercitazione 1.1{{< /staticref >}} - Ripasso retta
 
 <!-- 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1csQf3ThG7QzLbqqta7VaoS_CzCvwMpgH/view?usp=share_link" "newtab" >}}Esercitazione 2{{< /staticref >}} - Mercato de lavoro, sistema monetario e inflazione.
