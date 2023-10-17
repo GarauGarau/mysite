@@ -10,9 +10,9 @@ type: book
 
 
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1gQqpu7klmDyFL-UGEM2ibqEGvyPyv3FL/view?usp=sharing" "newtab" >}}Soluzione esercitazione 1 - contabilità nazionale e IPC{{< /staticref >}} 
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1gQqpu7klmDyFL-UGEM2ibqEGvyPyv3FL/view?usp=sharing" "newtab" >}}Soluzione esercitazione 1 {{< /staticref >}} - contabilità nazionale e IPC
 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1_WlFusyZGFZQpmKZPlMVO-K88-mDaGZc/view?usp=sharing" "newtab" >}}Soluzione esercitazione 1.1 - Ripasso retta{{< /staticref >}} 
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1_WlFusyZGFZQpmKZPlMVO-K88-mDaGZc/view?usp=sharing" "newtab" >}}Soluzione esercitazione 1.1 {{< /staticref >}} - Ripasso retta
 
 
 <!-- 
