@@ -25,8 +25,10 @@ type: book
 
 - [Il ruolo della spesa pubblica - OCP](https://osservatoriocpi.unicatt.it/ocpi-lezioni-di-finanza-pubblica-8-il-ruolo-della-spesa-pubblica)
 
+- [Scientific Background to the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2023, To Claudia Goldin, For having advanced our understanding of women’s labor market outcomes.](https://www.nobelprize.org/uploads/2023/10/advanced-economicsciencesprize2023.pdf) 
 
 
+- [Un premio Nobel a Claudia Goldin, economista e storica](https://lavoce.info/archives/102414/un-premio-nobel-a-claudia-goldin-economista-e-storica/)
 
 
 
