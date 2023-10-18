@@ -12,9 +12,10 @@ type: book
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1jcdHaHABs1Df-SEmH1kHRroFJ9ZuYz95/view?usp=sharingg" "newtab" >}}Esercitazione 1.1{{< /staticref >}} - Ripasso retta
 
-<!-- 
-- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1csQf3ThG7QzLbqqta7VaoS_CzCvwMpgH/view?usp=share_link" "newtab" >}}Esercitazione 2{{< /staticref >}} - Mercato de lavoro, sistema monetario e inflazione.
+ 
+- {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1JhEYMXGL1yJH3OdsWz_n9BaVfeg8-i1z/view?usp=sharing" "newtab" >}}Esercitazione 2{{< /staticref >}} - Mercato de lavoro, sistema monetario e inflazione.
 
+<!--
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1iZt3ED9jABIKqrwfd50wpIvZ0hr_-4GG/view?usp=share_link" "newtab" >}}Esercitazione 3{{< /staticref >}} - Crescita economica e modello di Solow.
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1gsVyjeJ2x71UMbbdN3Tn1Gw6nMbJ7Sbh/view?usp=share_link" "newtab" >}}Esercitazione 4{{< /staticref >}} - Cicli economici, croce croce keynesiana e introduzione al modello IS-LM
