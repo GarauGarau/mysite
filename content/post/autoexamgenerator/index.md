@@ -488,4 +488,4 @@ Future goals include:
 
 - Individual Exam Versions: I know some teachers might want every student to have a totally different exam. So, I'm looking into a feature that lets you create unique versions for each student.
 
-- Simpler Interface: Lastly, I'm hoping to revamp the user interface. I want it to be easy for anyone to jump in and create an exam without getting tangled in the technical stuff.
+- Simpler Interface: Lastly, I'm hoping to build a better user interface. I want it to be easy for anyone to jump in and create an exam without getting messy in the technical stuff.
