@@ -9,7 +9,7 @@ featured: false
 lastmod: "2023-19-11T11:56:00Z"
 projects: []
 subtitle: ""
-summary: "Exploring a Python script to automate test creation, this post will delve into generating multiple test versions, randomizing questions, and shuffling answer choices."
+summary: "This post will delve into generating multiple test versions, randomizing questions, and shuffling answer choices using ony Python."
 
 tags:
 - Python
