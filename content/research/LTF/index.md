@@ -1,5 +1,5 @@
 ---
-title: "Leaving the field? The impact of technology on high skill workers"
+title: "Scholars and Technological Changes: A Lesson from the Introduction of Dynare"
 
 authors:
 - admin
@@ -15,8 +15,8 @@ categories:
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Leaving the field? The imact of technology on high skill workers"
-publication_short: "Leaving the field?"
+publication: "Scholars and Technological Changes: A Lesson from the Introduction of Dynare"
+publication_short: "Scholars and Technological Changes"
 
 abstract: The core of our work is trying to understand the complex interplay between
 technology-driven inequality and productivity disparities, focusing the attention on a particular type of high-skill workers: researchers. This emphasis on scholars is not arbitrary; it is a carefully considered decision based on several factors. The field within each researcher operate can be precisely measured and quantified, providing a ground for robust empirical analysis. Within the context of this question, we are also examining whether such innovations unintentionally perpetuate inequality among workers, or whether they operate as a harmonizing tool that reduces the productivity disparities between less and more talented researchers.
