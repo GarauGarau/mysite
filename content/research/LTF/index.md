@@ -4,8 +4,8 @@ title: "Scholars and Technological Changes: A Lesson from the Introduction of Dy
 authors:
 - admin
 - Alessio Moro
-- Marco G. Nieddu
-date: "2023-10-07T00:00:00Z"
+- Marco Nieddu
+date: "2023-12-04T00:00:00Z"
 doi: ""
 
 categories:
