@@ -14,9 +14,8 @@ education:
 email: "alessiogarau22@gmail.com"
 highlight_name: true
 interests:
-- Spatial Economics
 - Labour Economics
-- Economics of Growth
+- Applied Microeconomics
 organizations:
 - name: University of Cagliari
   url: https://www.unica.it/unica/
