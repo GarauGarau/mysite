@@ -10,10 +10,11 @@ type: book
 
 
 
-
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1jcdHaHABs1Df-SEmH1kHRroFJ9ZuYz95/view?usp=sharingg" "newtab" >}}Esercitazione 1.1{{< /staticref >}} - Ripasso retta
 
  <!--
+
+!
  
  - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1eTPdOI0sKz3EdVxwdox433QpVEmEzMHU/view?usp=sharing" "newtab" >}}Esercitazione 1{{< /staticref >}} - Contabilità nazionale e IPC
  
