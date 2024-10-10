@@ -14,8 +14,6 @@ type: book
 
  <!--
 
-!
- 
  - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1eTPdOI0sKz3EdVxwdox433QpVEmEzMHU/view?usp=sharing" "newtab" >}}Esercitazione 1{{< /staticref >}} - Contabilità nazionale e IPC
  
 - {{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1JhEYMXGL1yJH3OdsWz_n9BaVfeg8-i1z/view?usp=sharing" "newtab" >}}Esercitazione 2{{< /staticref >}} - Mercato de lavoro, sistema monetario e inflazione.
