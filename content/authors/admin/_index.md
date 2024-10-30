@@ -1,5 +1,5 @@
 ---
-bio: I'm a PhD student at Univeristy of Cagliari. My research interests include Spatial Economics, Economics of Growth and Labor Economics. Here you'll find post about things i learn and some personal opinions.
+bio: I'm a PhD student at Univeristy of Cagliari. My research interests include Labor Economics and Applied Microeconomics. Here you'll find post about things i learn and some personal opinions.
 education:
   courses:
   - course: PhD student in Economics 
