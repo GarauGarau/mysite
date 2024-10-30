@@ -1,17 +1,16 @@
 ---
-title: "Scholars and Technological Changes: A Lesson from the Introduction of Dynare"
+title: "Scholars and the Machine, on automation and academic performance"
 authors:
   - admin
   - Alessio Moro
   - Marco Nieddu
 date: "2023-12-04T00:00:00Z"
 categories:
-  - Work in Progress
+  - Work in Progress (draft coming soon)
 publication_types: ["article"]
-publication: "Scholars and Technological Changes: A Lesson from the Introduction of Dynare"
-publication_short: "Scholars and Technological Changes"
-abstract: "The core of our work is trying to understand the complex interplay between technology-driven inequality and productivity disparities, focusing on a particular type of high-skill workers: researchers. This emphasis on scholars is not arbitrary; it is a carefully considered decision based on several factors. The field within which each researcher operates can be precisely measured and quantified, providing a ground for robust empirical analysis. We examine whether such innovations unintentionally perpetuate inequality among workers, or whether they serve as a harmonizing tool that reduces productivity disparities between less and more talented researchers."
-summary: "This is a work-in-progress project aimed at understanding the complex relationship between technology-driven inequality and productivity disparities among a particular group of highly skilled workers, researchers. Does technology serve as a leveling field, or does it exacerbate existing differences among high-skilled academic workers?"
+publication: "Scholars and the Machine, on automation and academic performance"
+publication_short: "Scholars and the Machine"
+abstract: "A central concern in economics, especially in times of major technological innovations, such as the development of AI, is whether these innovations complement or substitute workers’ skills, thus enhancing or reducing workers’ productivity. However, occupational output is often hard to measure, especially for high-skilled workers performing abstract tasks, making it hard to assess the impact of technology on productivity. In this paper, we overcome this issue by studying how the arrival of technological innovation has impacted productivity and inequality within a specific high-skilled group, that of economics researchers. Specifically, we focus on the introduction of DYNARE, a software designed to solve and simulate dynamic stochastic general equilibrium models. To identify the causal effect of DYNARE, we exploit the fact that its adoption was more likely in certain fields than in others. Leveraging this variation in a difference-in-difference approach, we find an increase in the average number of publications in the treated field, consistent with DYNARE boosting scholars' productivity. Importantly, we also find an increase in the number of citations received, but this increase is mainly observed in lower-ranked papers, suggesting that DYNARE helped to reduce citation inequality among researchers in the same field."
 tags:
   - Labor productivity
   - Technological innovations
@@ -23,8 +22,6 @@ share: false
 ---
 
 
-The core of our work is trying to understand the complex interplay between
-technology-driven inequality and productivity disparities, focusing the attention on a particular type of high-skill workers: researchers. Our focus on scholars is intentional and well-founded; it stems from the ability to precisely measure and quantify the field within which each researcher operates, thereby facilitating robust empirical analysis. Within the context of this question, we are also examining whether such innovations unintentionally perpetuate inequality among workers, or whether they operate as a harmonizing tool that reduces the productivity disparities between less and more talented researchers.
 
 
 
