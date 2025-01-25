@@ -8,9 +8,7 @@ cms_exclude: false
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-weight: 1  # LM
-weight: 2  # LTF
-
+view: 2
 
 # Optional header image (relative to `static/media/` folder).
 banner:
