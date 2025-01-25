@@ -21,7 +21,7 @@ featured: false
 share: false
 ---
 
-This paper examines the impact of mandatory sectoral closures on labor mobility in Italy during COVID-19, using detailed administrative data on employment activations, separations, and contract transformations. We analyze employment flows between essential and non-essential sectors, applying propensity score matching and a weighted difference-in-difference approach. The results reveal significant effects for sectors that were forced to shut down, particularly in increased transitions from employment to unemployment and decrease from unemployment to employment.
+This paper examines the impact of mandatory sectoral closures on labor mobility in Italy during COVID-19, using detailed administrative data on employment activations, separations, and contract transformations. We analyze employment flows between essential and non-essential sectors, applying a difference-in-difference approach. The results reveal significant effects for sectors that were forced to shut down, particularly in increased transitions from employment to unemployment and decrease from unemployment to employment.
 
 
 
