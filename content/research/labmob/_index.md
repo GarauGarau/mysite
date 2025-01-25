@@ -1,14 +1,13 @@
 ---
 title: "Labour Market Dynamics - Evidence from Administrative Data"
 authors:
-  - admin
   - Silvia Balia
-  - Alessio Garau
+  - admin
   - Daniela Sonedda
   - Giovanni Sulis
 date: "2025-12-04T00:00:00Z"
 categories:
-  - Work in Progress (draft coming soon)
+  - Work in Progress
 publication_types: ["article"]
 publication: "Labour Market Dynamics - Evidence from Administrative Data"
 publication_short: "Labour Market Dynamics"
