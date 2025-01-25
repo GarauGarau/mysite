@@ -44,7 +44,7 @@ header:
 footer:
   copyright:
     enable:
-    notice: 'Personal web page - Alessio Garau 2022'
+    notice: 'Personal web page - Alessio Garau'
     license:
       enable: false
       allow_derivatives: false
