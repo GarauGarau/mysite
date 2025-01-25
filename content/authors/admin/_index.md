@@ -37,7 +37,7 @@ superuser: true
 title: Alessio Garau
 ---
 
-I hold a Master's degree in Economics, Finance, and Public Policy from the University of Cagliari, Italy. My experience includes an internship at the Center for Economic Research North South (CRENoS), a role as Research Assistant at LaVoce.info, and a position as Data Analyst at Talents Venture, a startup in the education sector. Currently, I am pursuing my second year in the PhD program in Economics at the University of Cagliari.
+I hold a Master's degree in Economics, Finance, and Public Policy from the University of Cagliari, Italy. My experience includes an internship at the Center for Economic Research North South (CRENoS), a role as Research Assistant at LaVoce.info, and a position as Data Analyst at Talents Venture, a startup in the education sector. Currently, I am pursuing my third year in the PhD program in Economics at the University of Cagliari.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1_8qh8vbKRu3N63tJWpUB67rSv7rnT3Ql/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}
