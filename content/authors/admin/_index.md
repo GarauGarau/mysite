@@ -42,5 +42,7 @@ I hold a Master's degree in Economics, Finance, and Public Policy from the Unive
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1_8qh8vbKRu3N63tJWpUB67rSv7rnT3Ql/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}
 
-{{< icon name="mail" pack="fas" >}} alessiogarau22@gmail.com {{< /staticref >}}
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1_8qh8vbKRu3N63tJWpUB67rSv7rnT3Ql/view?usp=sharing" "newtab" >}}CV{{< /staticref >}}
+
 
